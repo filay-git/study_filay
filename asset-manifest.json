@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/study_filay/index.html/static/css/main.3a2dfd48.chunk.css",
-    "main.js": "/study_filay/index.html/static/js/main.71cc7c0c.chunk.js",
-    "main.js.map": "/study_filay/index.html/static/js/main.71cc7c0c.chunk.js.map",
-    "runtime-main.js": "/study_filay/index.html/static/js/runtime-main.b372954d.js",
-    "runtime-main.js.map": "/study_filay/index.html/static/js/runtime-main.b372954d.js.map",
-    "static/js/2.1c97c4ed.chunk.js": "/study_filay/index.html/static/js/2.1c97c4ed.chunk.js",
-    "static/js/2.1c97c4ed.chunk.js.map": "/study_filay/index.html/static/js/2.1c97c4ed.chunk.js.map",
-    "index.html": "/study_filay/index.html/index.html",
-    "precache-manifest.7dbd342473bfb527c5a6c7481fe889ed.js": "/study_filay/index.html/precache-manifest.7dbd342473bfb527c5a6c7481fe889ed.js",
-    "service-worker.js": "/study_filay/index.html/service-worker.js",
-    "static/css/main.3a2dfd48.chunk.css.map": "/study_filay/index.html/static/css/main.3a2dfd48.chunk.css.map",
-    "static/js/2.1c97c4ed.chunk.js.LICENSE.txt": "/study_filay/index.html/static/js/2.1c97c4ed.chunk.js.LICENSE.txt"
+    "main.css": "/study_filay/static/css/main.3a2dfd48.chunk.css",
+    "main.js": "/study_filay/static/js/main.71cc7c0c.chunk.js",
+    "main.js.map": "/study_filay/static/js/main.71cc7c0c.chunk.js.map",
+    "runtime-main.js": "/study_filay/static/js/runtime-main.9250a44d.js",
+    "runtime-main.js.map": "/study_filay/static/js/runtime-main.9250a44d.js.map",
+    "static/js/2.1c97c4ed.chunk.js": "/study_filay/static/js/2.1c97c4ed.chunk.js",
+    "static/js/2.1c97c4ed.chunk.js.map": "/study_filay/static/js/2.1c97c4ed.chunk.js.map",
+    "index.html": "/study_filay/index.html",
+    "precache-manifest.b831b2990e670947823f0ccbea511b2a.js": "/study_filay/precache-manifest.b831b2990e670947823f0ccbea511b2a.js",
+    "service-worker.js": "/study_filay/service-worker.js",
+    "static/css/main.3a2dfd48.chunk.css.map": "/study_filay/static/css/main.3a2dfd48.chunk.css.map",
+    "static/js/2.1c97c4ed.chunk.js.LICENSE.txt": "/study_filay/static/js/2.1c97c4ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b372954d.js",
+    "static/js/runtime-main.9250a44d.js",
     "static/js/2.1c97c4ed.chunk.js",
     "static/css/main.3a2dfd48.chunk.css",
     "static/js/main.71cc7c0c.chunk.js"
